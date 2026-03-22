@@ -90,7 +90,7 @@ ai-study-assistant/
 
 ## Known Issues
 
-- Mind maps take 3-5 seconds to generate (using smaller Llama model for speed)
+- Mind maps take 1-2 minutes to generate (using smaller Llama model for speed)
 - Math equations don't extract as well as plain text
 - No save/export yet (everything's session based)
 - Works best with clear, well-lit photos
