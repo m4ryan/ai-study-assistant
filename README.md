@@ -1,6 +1,6 @@
 # AI Study Assistant for Visual Learners
 
-An AI powered tool that turns textbook pages into mind maps, study questions and audio summaries. Built for my CM3020 AI module at University of London.
+An AI powered tool that turns textbook pages into mind maps, study questions and audio summaries. Built for my CM3020 Final Project at University of London.
 
 ## What It Does
 
